@@ -1,0 +1,14 @@
+BLACKOUT - INCIDENT BRIEF
+
+At 03:17 on October 14, the Lakehurst Municipal Water Facility's safety system
+detected an abnormal chlorine-feed setting and automatically restored the approved
+value before unsafe water entered distribution.
+
+Your team has been asked to determine:
+1. What happened between 02:45 and 03:30?
+2. Which accounts, systems, and network sources appear in the evidence?
+3. Which facts are established by the logs, and which conclusions remain uncertain?
+4. Can Bash turn thousands of scattered events into a defensible incident timeline?
+
+Important: This is a fictional training scenario. Do not test commands against real
+systems, accounts, networks, or infrastructure.

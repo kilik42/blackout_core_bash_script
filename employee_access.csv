@@ -1,0 +1,5 @@
+employee_id,name,role,shift,remote_access
+E104,Riya Patel,Controls Engineer,07:00-15:00,yes
+E221,Jose Moreno,Operations Supervisor,06:00-14:00,yes
+E315,Kim Nguyen,Plant Operator,22:00-06:00,no
+E402,Vendor Operations,AquaMetric Vendor,maintenance-window,yes
